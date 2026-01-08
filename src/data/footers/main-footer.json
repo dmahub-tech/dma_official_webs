@@ -1,0 +1,36 @@
+{
+  "social_links": {
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://www.youtube.com/"
+  },
+  "links": [
+    {
+      "title": "Company",
+      "url": "/about"
+    },
+    {
+      "title": "Team",
+      "url": "/about"
+    },
+    {
+      "title": "Services",
+      "url": "/service"
+    }
+  ],
+  "recent_posts": [
+    {
+      "url": "/blog-grid-modern",
+      "image": "img/blog/c3.jpg",
+      "title": "How to check the website before releasing it?"
+    },
+    {
+      "url": "/blog-grid-modern",
+      "image": "img/blog/c1.jpg",
+      "title": "How to check the website before releasing it?"
+    }
+  ],
+  "address": "No 14 block 2 Ijare Street, Yaba Lagos Nigeria",
+  "email": "routechnology@outlook.com",
+  "phone": "+234 81 0921 6368"
+}

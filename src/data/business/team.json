@@ -1,0 +1,17 @@
+[
+  {
+    "picture": "img/team/t1.jpg",
+    "name": "Olalekan Raheem",
+    "position": "CEO/CTO"
+  },
+  {
+    "picture": "img/team/t2.jpg",
+    "name": "Ayomide Joel",
+    "position": "Head Designer"
+  },
+  {
+    "picture": "img/team/t3.jpg",
+    "name": "Oluwaseun Oyewole",
+    "position": "Lead Developer"
+  }
+]

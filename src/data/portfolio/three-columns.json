@@ -1,0 +1,64 @@
+{
+  "filters": [
+    {
+      "name": "All",
+      "operator": "*"
+    },
+    {
+      "name": "Branding",
+      "operator": ".brand"
+    },
+    {
+      "name": "Mobile App",
+      "operator": ".web"
+    },
+    {
+      "name": "Creative",
+      "operator": ".graphic"
+    }
+  ],
+  "gallery": [
+    {
+      "filter": "graphic",
+      "image": "img/portfolio/2/1.jpg",
+      "title": "Creativity Demand",
+      "type": "Photography",
+      "slug": "creativity-demand"
+    },
+    {
+      "filter": "web",
+      "image": "img/portfolio/2/2.jpg",
+      "title": "Through The Breaking",
+      "type": "Web design",
+        "slug": "through-the-breaking"
+    },
+    {
+      "filter": "brand",
+      "image": "img/portfolio/2/3.jpg",
+      "title": "Create With Creatives",
+      "type": "Branding",
+        "slug": "create-with-creatives"
+    },
+    {
+      "filter": "graphic",
+      "image": "img/portfolio/2/4.jpg",
+      "title": "Energies of Love",
+      "type": "graphic",
+        "slug": "energies-of-love"
+    },
+    {
+      "filter": "web",
+      "image": "img/portfolio/2/5.jpg",
+      "title": "See It Yourself",
+      "type": "Design",
+      "slug": "see-it-yourself"
+    },
+    {
+      "filter": "brand",
+      "image": "img/portfolio/2/6.jpg",
+      "title": "Blast From The Past",
+      "type": "Branding",
+      "slug": "blast-from-the-past"
+    }
+  ]
+}

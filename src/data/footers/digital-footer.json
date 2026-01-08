@@ -1,0 +1,58 @@
+{
+  "social_links": {
+    "facebook": "https://www.facebook.com/",
+    "twitter": "https://twitter.com/",
+    "youtube": "https://www.youtube.com/"
+  },
+  "links": [
+    {
+      "title": "Company",
+      "url": "/about-creative"
+    },
+    {
+      "title": "Team",
+      "url": "/about-business"
+    },
+    {
+      "title": "Services",
+      "url": "/services-creative"
+    },
+    {
+      "title": "Products",
+      "url": "/portfolio-classic-masonry"
+    }
+  ],
+  "instagram_posts": [
+    {
+      "url": "https://www.instagram.com/",
+      "image": "img/insta/1.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/",
+      "image": "img/insta/2.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/",
+      "image": "img/insta/3.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/",
+      "image": "img/insta/4.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/",
+      "image": "img/insta/5.jpg"
+    },
+    {
+      "url": "https://www.instagram.com/",
+      "image": "img/insta/6.jpg"
+    }
+  ],
+  "address": "Germany — 785 15h Street, Office 478 Berlin, De 81566",
+  "email": "Info-Support@Gmail.com",
+  "phone": "+1 840 841 25 69",
+  "theme_author": {
+    "name": "ThemesCamp",
+    "url": "https://themeforest.net/user/themescamp"
+  }
+}

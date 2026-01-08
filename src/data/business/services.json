@@ -1,0 +1,51 @@
+[
+   {
+    "id": 1,
+    "icon": "pe-7s-settings",
+    "title": "SALES OF ELECTRONIC COMPONENTS/MODULES",
+    "detials": "Crafting Tomorrow's Solutions Today, Across Every Tech Frontier.",
+    "tags": ["Web", "Systems", "e.t.c"]
+  },
+  {
+    "id": 2,
+    "icon": "pe-7s-settings",
+    "title": "Software Development (Mobile, Web, e.t.c)",
+    "detials": "Crafting Tomorrow's Solutions Today, Across Every Tech Frontier.",
+    "tags": ["Web", "Systems", "e.t.c"]
+  },
+  {
+    "id": 3,
+    "icon": "pe-7s-paint-bucket",
+    "title": "Product Design and Development",
+    "detials": "From Concept to Reality: Innovating Experiences that Redefine Possibilities.",
+    "tags": ["Web", "Mobile", "Desktop"]
+  },
+  {
+    "id": 4,
+    "icon": "pe-7s-settings",
+    "title": "UI/UX",
+    "detials": "Elevating Experiences: Where Design Meets Intuition for Seamless Interaction.",
+    "tags": ["Web", "Mobile", "Desktop", "e.t.c"]
+  },
+  {
+    "id": 5,
+    "icon": "pe-7s-settings",
+    "title": "Data Science",
+    "detials": "Unveiling Insights: Transforming Data into Actionable Intelligence for Success.",
+    "tags": ["Systems", "Data", "Research", "e.t.c"]
+  },
+  {
+    "id": 6,
+    "icon": "pe-7s-settings",
+    "title": "Machine Learning/AI",
+    "detials": "Pioneering the Future: Harnessing Machine Intelligence for Groundbreaking Solutions.",
+    "tags": ["Systems", "Data"]
+  },
+  {
+    "id": 7,
+    "icon": "pe-7s-mouse",
+    "title": "Cloud Development",
+    "detials": "Unleash the Power of Infinite Scalability: Elevating Your Operations to New Heights in the Cloud.",
+    "tags": ["Systems", "Servers"]
+  }
+]

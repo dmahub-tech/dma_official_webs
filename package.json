@@ -6,21 +6,30 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "next lint"
   },
   "dependencies": {
-    "next": "16.0.10",
-    "react": "19.2.1",
-    "react-dom": "19.2.1"
+    "@calcom/embed-react": "^1.4.0",
+    "@ramonak/react-progress-bar": "^5.2.0",
+    "next": "14.2.3",
+    "react": "^18",
+    "react-circular-progressbar": "^2.1.0",
+    "react-dom": "^18",
+    "react-fade-in": "^2.0.1",
+    "react-modal-video": "^2.0.1",
+    "react-parallax-tilt": "^1.7.224",
+    "react-scroll": "^1.9.0",
+    "react-slidedown": "^2.4.7",
+    "react-tsparticles": "^2.12.2",
+    "swiper": "^11.1.1",
+    "tsparticles": "^3.3.0"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
-    "eslint-config-next": "16.0.10",
-    "tailwindcss": "^4",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.3",
     "typescript": "^5"
   }
 }
