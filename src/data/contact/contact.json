@@ -1,5 +1,9 @@
 {
-  "phone": "+234 81 0921 6368",
-  "email": "routechnology@outlook.com",
-  "address": "No 14 block 2 Ijare Street, Yaba Lagos Nigeria"
+  "phone": "+1 (555) 123-4567",
+  "email": "hello@DigitalMastermindAcademy.com",
+  "address": "123 Tech Boulevard, Innovation District, San Francisco, CA 94107",
+  "hours": {
+    "weekdays": "Monday - Friday: 9am - 6pm PST",
+    "saturday": "Saturday: 10am - 4pm PST"
+  }
 }

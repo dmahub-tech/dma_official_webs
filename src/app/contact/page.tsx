@@ -9,18 +9,18 @@ import Clients from "@/dva/components/Clients";
 import Footer from "@/dva/components/Footer";
 import Navbar from "@/dva/components/NavBar";
 import CallToAction from "@/dva/components/CallAction";
+import Contact from '@/dva/components/Contact';
 
 const Page = () => {
     return (
         <>
             <Navbar />
-            <Header2 bg="/img/background/22.jpg" />
+
+                 <Header2 bg="/img/background/contactUs.png" mainTitle="" mainTitleSpan="Contact" eyebrow="Get In Touch With Us"/>
+            
             <main className="position-re">
-                <Services />
-                <CallToAction />
-                <Process services={true} />
-                <Testimonials curve={false} />
-                <Clients />
+                <Contact/>
+              
                 <div className="mb-50" ></div>
                 <Footer footerClass="main-footer bg-dark-blue bg-img" business={true} />
             </main>

@@ -9,9 +9,6 @@ const nextConfig = {
     devIndicators: {
         buildActivity: false,
     },
-    eslint: {
-        ignoreDuringBuilds: false,
-    },
 };
 
 export default nextConfig;

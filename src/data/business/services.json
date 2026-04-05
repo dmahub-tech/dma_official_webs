@@ -1,51 +1,58 @@
 [
-   {
+  {
     "id": 1,
-    "icon": "pe-7s-settings",
-    "title": "SALES OF ELECTRONIC COMPONENTS/MODULES",
-    "detials": "Crafting Tomorrow's Solutions Today, Across Every Tech Frontier.",
-    "tags": ["Web", "Systems", "e.t.c"]
+    "icon": "pe-7s-users",
+    "title": "Our ICT Consultancy Services",
+    "detials": "Comprehensive ICT Solutions. We provide professional ICT consultancy services to help your business leverage technology effectively.",
+    "tags": ["Consultancy", "Technology", "Business"]
   },
   {
     "id": 2,
-    "icon": "pe-7s-settings",
-    "title": "Software Development (Mobile, Web, e.t.c)",
-    "detials": "Crafting Tomorrow's Solutions Today, Across Every Tech Frontier.",
-    "tags": ["Web", "Systems", "e.t.c"]
+    "icon": "pe-7s-box1",
+    "title": "Sales of Electronic Components/Modules",
+    "detials": "High-quality electronic components and modules for all your project needs. Wide range of components, competitive pricing, technical support, reliable suppliers.",
+    "tags": ["Electronics", "Components", "Modules"]
   },
   {
     "id": 3,
     "icon": "pe-7s-paint-bucket",
-    "title": "Product Design and Development",
-    "detials": "From Concept to Reality: Innovating Experiences that Redefine Possibilities.",
-    "tags": ["Web", "Mobile", "Desktop"]
+    "title": "Graphics Design",
+    "detials": "Professional graphic design services for your brand and marketing needs. Logo design, brand identity, marketing materials, digital graphics.",
+    "tags": ["Design", "Branding", "Marketing"]
   },
   {
     "id": 4,
-    "icon": "pe-7s-settings",
-    "title": "UI/UX",
-    "detials": "Elevating Experiences: Where Design Meets Intuition for Seamless Interaction.",
-    "tags": ["Web", "Mobile", "Desktop", "e.t.c"]
+    "icon": "pe-7s-sun",
+    "title": "Solar System Design & Installation",
+    "detials": "Custom solar solutions for residential and commercial properties. Energy assessment, system design, professional installation, maintenance services.",
+    "tags": ["Solar", "Energy", "Installation"]
   },
   {
     "id": 5,
-    "icon": "pe-7s-settings",
-    "title": "Data Science",
-    "detials": "Unveiling Insights: Transforming Data into Actionable Intelligence for Success.",
-    "tags": ["Systems", "Data", "Research", "e.t.c"]
+    "icon": "pe-7s-plug",
+    "title": "Electrical Service Design",
+    "detials": "Comprehensive electrical system design for buildings and facilities. Wiring design, load calculations, safety compliance, energy efficiency.",
+    "tags": ["Electrical", "Design", "Safety"]
   },
   {
     "id": 6,
-    "icon": "pe-7s-settings",
-    "title": "Machine Learning/AI",
-    "detials": "Pioneering the Future: Harnessing Machine Intelligence for Groundbreaking Solutions.",
-    "tags": ["Systems", "Data"]
+    "icon": "pe-7s-code",
+    "title": "Software Development",
+    "detials": "Custom software solutions tailored to your business requirements. Web applications, mobile apps, database systems, API integration.",
+    "tags": ["Software", "Web", "Mobile", "API"]
   },
   {
     "id": 7,
-    "icon": "pe-7s-mouse",
-    "title": "Cloud Development",
-    "detials": "Unleash the Power of Infinite Scalability: Elevating Your Operations to New Heights in the Cloud.",
-    "tags": ["Systems", "Servers"]
+    "icon": "pe-7s-power",
+    "title": "Inverter Design & Installation",
+    "detials": "Reliable power conversion solutions for your energy needs. Custom inverter design, efficient power conversion, professional installation, maintenance services.",
+    "tags": ["Inverter", "Power", "Installation"]
+  },
+  {
+    "id": 8,
+    "icon": "pe-7s-global",
+    "title": "Website Design and Management",
+    "detials": "Complete web solutions from design to ongoing maintenance. Responsive design, SEO optimization, content management, security updates.",
+    "tags": ["Website", "Design", "SEO", "Management"]
   }
 ]

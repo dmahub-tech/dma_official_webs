@@ -3642,7 +3642,7 @@ img.left {
   width: 100%;
   background: transparent;
   border-bottom: 2px solid transparent;
-  z-index: 999;
+  z-index: 9999999;
   min-height: 80px;
 }
 
@@ -3735,7 +3735,9 @@ img.left {
   transition: all .4s;
   padding: 10px 35px;
   position: relative;
-  display: block;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .navbar .dropdown-menu .dropdown-item a {

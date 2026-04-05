@@ -1,8 +1,11 @@
 'use client';
 
 import { useState } from 'react';
+import { useTheme } from '@/dva/context/ThemeContext';
 
 const Form = () => {
+  const { resolvedTheme } = useTheme();
+  const isDark = resolvedTheme === 'dark';
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -96,7 +99,17 @@ const Form = () => {
 
                 <div className="col-12">
                   <div className="text-center mt-40">
-                    <button type="submit" onClick={handleSubmit}>
+                    <button 
+                      type="submit" 
+                      onClick={handleSubmit}
+                      className="inline-flex items-center gap-2 px-8 py-3 rounded-lg text-base font-medium transition-all duration-300 hover:scale-105 hover:shadow-lg"
+                      style={{
+                        background: 'var(--accent)',
+                        color: 'white',
+                        borderRadius: '8px',
+                        boxShadow: isDark ? '0 8px 30px rgba(99, 102, 241, 0.3)' : '0 8px 30px rgba(99, 102, 241, 0.25)'
+                      }}
+                    >
                       <span>Let&lsquo;s Talk</span>
                     </button>
                   </div>

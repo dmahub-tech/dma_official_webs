@@ -1,0 +1,130 @@
+{
+  "IndustrialPrograms": [
+    {
+      "id": "industrial-training",
+      "title": "Industrial Training",
+      "subtitle": "Real-world project experience with industry mentors",
+      "duration": "3-6 Months",
+      "level": "Intermediate",
+      "icon": "fas fa-industry",
+      "image": "industrial-training.png",
+      "features": [
+        "Industry-aligned curriculum",
+        "Mentorship from tech professionals",
+        "Capstone project for portfolio",
+        "Career placement assistance"
+      ],
+      "buttonText": "Apply Now",
+      "buttonLink": "/apply/industrial-training"
+    },
+    {
+      "id": "professional-internship",
+      "title": "Professional Internship",
+      "subtitle": "Work with tech companies on live products",
+      "duration": "6-12 Months",
+      "level": "Advanced",
+      "icon": "fas fa-briefcase",
+      "image": "professional-internship.png",
+      "features": [
+        "Paid internship opportunities",
+        "Real client projects",
+        "Professional development",
+        "Networking with industry leaders"
+      ],
+      "buttonText": "Apply Now",
+      "buttonLink": "/apply/professional-internship"
+    },
+    {
+      "id": "non-tech-internship",
+      "title": "Non-Tech Internship",
+      "subtitle": "Opportunities in business, marketing, and administration",
+      "duration": "3-12 Months",
+      "level": "All Levels",
+      "icon": "fas fa-users",
+      "image": "non-tech-internship.png",
+      "features": [
+        "Various departments available",
+        "Professional work environment",
+        "Skill development",
+        "Networking opportunities"
+      ],
+      "buttonText": "Apply Now",
+      "buttonLink": "/apply/non-tech-internship"
+    }
+  ],
+  "InterShipPrograms": [
+    {
+      "id": "software-internship",
+      "title": "Software Development Internship",
+      "subtitle": "Build real software with experienced engineers",
+      "duration": "3-6 Months",
+      "level": "Intermediate",
+      "icon": "fas fa-code",
+      "image": "software-internship.png",
+      "features": [
+        "Full-stack project experience",
+        "Code review and mentorship",
+        "Agile development workflow",
+        "Deployment and DevOps exposure"
+      ],
+      "buttonText": "Apply Now",
+      "buttonLink": "/apply/software-internship"
+    },
+    {
+      "id": "data-science-internship",
+      "title": "Data Science Internship",
+      "subtitle": "Analyze real datasets and build ML models",
+      "duration": "4-6 Months",
+      "level": "Advanced",
+      "icon": "fas fa-chart-line",
+      "image": "data-science-internship.png",
+      "features": [
+        "Real business data projects",
+        "Machine learning pipelines",
+        "Data visualization training",
+        "Industry certification prep"
+      ],
+      "buttonText": "Apply Now",
+      "buttonLink": "/apply/data-science-internship"
+    },
+    {
+      "id": "ui-ux-internship",
+      "title": "UI/UX Design Internship",
+      "subtitle": "Design user-centered digital experiences",
+      "duration": "3-6 Months",
+      "level": "All Levels",
+      "icon": "fas fa-paint-brush",
+      "image": "ui-ux-internship.png",
+      "features": [
+        "Portfolio project development",
+        "Design system creation",
+        "User research and testing",
+        "Industry tool mastery"
+      ],
+      "buttonText": "Apply Now",
+      "buttonLink": "/apply/ui-ux-internship"
+    }
+  ],
+  "learningApproach": [
+    {
+      "icon": "fas fa-hands-helping",
+      "title": "Hands-On Projects",
+      "description": "Learn by working on real-world applications"
+    },
+    {
+      "icon": "fas fa-network-wired",
+      "title": "Professional Networking",
+      "description": "Connect with industry leaders and peers"
+    },
+    {
+      "icon": "fas fa-user-tie",
+      "title": "Mentorship",
+      "description": "Guidance from experienced professionals"
+    },
+    {
+      "icon": "fas fa-rocket",
+      "title": "Career Support",
+      "description": "Resume building, interview prep, and job placement"
+    }
+  ]
+}

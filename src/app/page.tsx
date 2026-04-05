@@ -17,7 +17,7 @@ export default function Home() {
        <Navbar />
        <Header />
        <main className="position-re">
-           <Services />
+           <Services showImages={true} />
            {/*<Features />*/}
            <CallToAction />
            <Process />
@@ -32,3 +32,6 @@ export default function Home() {
    </>
   );
 }
+
+
+ 
