@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "category": "Graphic Design",
+    "categoryDescription": "Explore Graphic Design courses and build valuable skills",
+     "tags": [
+      "Graphic Design",
+      "Adobe",
+      "Photoshop",
+      "Illustrator",
+      "Creative Design",
+      "Branding",
+      "Digital Art",
+      "UI Design",
+      "Visual Communication"
+    ],
+    "courses": [
+      {
+        "id": 101,
+        "CourseName": "Adobe Illustrator",
+        "description": "Learn professional vector illustration and branding design using Adobe Illustrator.",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "price": 92000,
+        "discountInPercent": 10,
+        "CourseCategory": "GRAPHIC_DESIGN",
+        "CategoryTitle": "Graphic Design",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Create logos, icons, posters, flyers, and digital illustrations.",
+        "CourseStatus": "DISCOUNT",
+         "tags": [
+          "Adobe Illustrator",
+          "Vector Design",
+          "Logo Design",
+          "Brand Identity",
+          "Creative Skills",
+          "Digital Illustration",
+          "Graphic Design Course"
+        ]
+      },
+      {
+  "id": 102,
+  "CourseName": "Adobe In-design",
+  "description": "This course introduces learners to the fundamentals of graphic design, focusing on visual communication and creative problem-solving. Students will learn how to create professional designs using industry-standard tools for branding, marketing materials, and digital content.",
+  "level": "Beginner",
+  "duration": "4 weeks",
+  "price": 92000,
+  "discountInPercent": 5,
+  "CourseCategory": "GRAPHIC_DESIGN",
+  "CategoryTitle": "Graphic Design",
+  "CourseEnrrolmentType": "ONLINE",
+  "additionalInfo": "Learn professional page layout design, brochures, magazines, books, and print publishing using Adobe InDesign.",
+  "CourseStatus": "ACTIVE",
+  "tags": [
+    "Adobe InDesign",
+    "Print Design",
+    "Magazine Layout",
+    "Brochure Design",
+    "Publishing",
+    "Graphic Design",
+    "Creative Design",
+    "Page Layout",
+    "Digital Publishing"
+  ]
+},
+      {
+        "id": 103,
+        "CourseName": "Adobe Photoshop",
+        "description": "Master photo editing, retouching, and digital manipulation with Photoshop.",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "price": 92000,
+        "discountInPercent": 5,
+        "CourseCategory": "GRAPHIC_DESIGN",
+        "CategoryTitle": "Graphic Design",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Learn image editing, social media design, and photo manipulation.",
+        "CourseStatus": "ACTIVE",
+         "tags": [
+          "Adobe Photoshop",
+          "Photo Editing",
+          "Image Manipulation",
+          "Social Media Design",
+          "Graphic Design",
+          "Creative Editing",
+          "Photoshop Training"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Programming",
+    "categoryDescription": "Explore Programming courses and build valuable skills",
+    "tags": [
+      "Programming",
+      "Coding",
+      "Software Development",
+      "JavaScript",
+      "Java",
+      "C++",
+      "Web Development",
+      "Tech Skills",
+      "Computer Programming"
+    ],
+    "courses": [
+      {
+        "id": 201,
+        "CourseName": "JavaScript",
+        "description": "Learn JavaScript fundamentals for building dynamic websites and web applications.",
+        "level": "Beginner",
+        "duration": "8 weeks",
+        "price": 92000,
+        "discountInPercent": 15,
+        "CourseCategory": "PROGRAMMING",
+        "CategoryTitle": "Programming",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Learn DOM manipulation, events, APIs, and interactive UI development.",
+        "CourseStatus": "DISCOUNT",
+         "tags": [
+          "JavaScript",
+          "Frontend Development",
+          "Web Applications",
+          "Programming Course",
+          "Coding Bootcamp",
+          "DOM Manipulation",
+          "Web Design"
+        ]
+      },
+      {
+        "id": 202,
+        "CourseName": "Java",
+        "description": "Build desktop, web, and mobile applications using Java programming.",
+        "level": "Beginner",
+        "duration": "8 weeks",
+        "price": 92000,
+        "discountInPercent": 10,
+        "CourseCategory": "PROGRAMMING",
+        "CategoryTitle": "Programming",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Learn OOP concepts, data structures, and application development.",
+        "CourseStatus": "ACTIVE",
+         "tags": [
+          "Java",
+          "Object Oriented Programming",
+          "Backend Development",
+          "Mobile Apps",
+          "Software Engineering",
+          "Programming Training",
+          "Java Development"
+        ]
+      },
+      {
+  "id": 203,
+  "CourseName": "C",
+  "description": "This course provides a comprehensive introduction to C programming language. Learners will understand fundamental programming concepts, data structures, object-oriented programming, and how to develop efficient applications for software development and embedded systems.",
+  "level": "Beginner",
+  "duration": "8 weeks",
+  "price": 92000,
+  "discountInPercent": 10,
+  "CourseCategory": "PROGRAMMING",
+  "CategoryTitle": "Programming",
+  "CourseEnrrolmentType": "ONLINE",
+  "additionalInfo": "Learn core programming concepts, memory management, algorithms, and embedded systems development using the C programming language.",
+  "CourseStatus": "ACTIVE",
+  "tags": [
+    "C Programming",
+    "Programming Language",
+    "Software Development",
+    "Embedded Systems",
+    "Algorithms",
+    "Data Structures",
+    "Low Level Programming",
+    "Computer Science",
+    "Coding Training"
+  ]
+},{
+  "id": 204,
+  "CourseName": "C++",
+  "description": "This course provides a comprehensive introduction to C++ programming language. Learners will understand fundamental programming concepts, data structures, object-oriented programming, and how to develop efficient applications for software development and embedded systems.",
+  "level": "Beginner",
+  "duration": "8 weeks",
+  "price": 92000,
+  "discountInPercent": 10,
+  "CourseCategory": "PROGRAMMING",
+  "CategoryTitle": "Programming",
+  "CourseEnrrolmentType": "ONLINE",
+  "additionalInfo": "Learn object-oriented programming, memory management, algorithms, and software engineering concepts using C++ for application and embedded systems development.",
+  "CourseStatus": "ACTIVE",
+  "tags": [
+    "C++ Programming",
+    "Object Oriented Programming",
+    "Software Development",
+    "Embedded Systems",
+    "Data Structures",
+    "Algorithms",
+    "Application Development",
+    "Computer Science",
+    "Programming Training"
+  ]
+},
+{
+  "id": 205,
+  "CourseName": "MATLAB",
+  "description": "This course introduces learners to MATLAB, a high-level programming and numerical computing environment. Students will learn to perform mathematical modeling, data analysis, simulations, and visualization, making it ideal for engineering, science, and research applications.",
+  "level": "Beginner",
+  "duration": "8 weeks",
+  "price": 92000,
+  "discountInPercent": 10,
+  "CourseCategory": "PROGRAMMING",
+  "CategoryTitle": "Programming",
+  "CourseEnrrolmentType": "ONLINE",
+  "additionalInfo": "Learn numerical computing, simulations, data visualization, mathematical modeling, and engineering analysis using MATLAB.",
+  "CourseStatus": "ACTIVE",
+  "tags": [
+    "MATLAB",
+    "Numerical Computing",
+    "Engineering Software",
+    "Data Analysis",
+    "Mathematical Modeling",
+    "Simulation",
+    "Scientific Computing",
+    "Programming",
+    "Research Applications"
+  ]
+},
+{
+  "id": 206,
+  "CourseName": "Software Engineering",
+  "description": "This course introduces learners to the principles and practices of software engineering. Students will learn software development life cycles, system design, coding standards, testing, version control, and teamwork skills required to build reliable and maintainable software systems.",
+  "level": "Beginner",
+  "duration": "16 weeks",
+  "virtualPrice": 202000,
+  "physicalPrice": 104000,
+  "discountInPercent": 10,
+  "CourseCategory": "PROGRAMMING",
+  "CategoryTitle": "Programming",
+  "CourseEnrrolmentType": "ONLINE_AND_PHYSICAL",
+  "additionalInfo": "Learn software architecture, agile development, version control, debugging, testing, and collaborative software development practices used in the tech industry.",
+  "CourseStatus": "ACTIVE",
+  "tags": [
+    "Software Engineering",
+    "Software Development",
+    "Programming",
+    "Agile Development",
+    "Version Control",
+    "System Design",
+    "Coding Standards",
+    "Software Testing",
+    "Tech Career",
+    "Computer Science"
+  ]
+}
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Website Design and Development",
+    "categoryDescription": "Explore Website Design and Development courses and build valuable skills",
+     "tags": [
+      "Website Design",
+      "Frontend",
+      "Backend",
+      "UI UX",
+      "Responsive Design",
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Web Development"
+    ],
+    "courses": [
+      {
+  "id": 301,
+  "CourseName": "UI/UX Design (Adobe XD, Figma)",
+  "description": "This course teaches the principles of user interface (UI) and user experience (UX) design. Learners will gain skills in designing intuitive, visually appealing, and user-friendly digital products, focusing on usability, interaction design, and user-centered design processes.",
+  "level": "Beginner",
+  "duration": "16 weeks",
+  "price": 182000,
+  "discountInPercent": 0,
+  "CourseCategory": "WEB_DEVELOPMENT",
+  "CategoryTitle": "Website Design and Development",
+  "CourseEnrrolmentType": "ONLINE",
+  "additionalInfo": "Learn UI design, UX research, wireframing, prototyping, and design systems using Adobe XD and Figma.",
+  "CourseStatus": "ACTIVE",
+  "tags": [
+    "UI Design",
+    "UX Design",
+    "Figma",
+    "Adobe XD",
+    "User Experience",
+    "User Interface",
+    "Product Design",
+    "Wireframing",
+    "Prototyping",
+    "Web Design"
+  ]
+},
+      {
+        "id": 302,
+        "CourseName": "Frontend Development",
+        "description": "Learn HTML, CSS, JavaScript, and responsive design for modern web applications.",
+        "level": "Beginner",
+        "duration": "4 weeks",
+        "price": 82000,
+        "discountInPercent": 5,
+        "CourseCategory": "WEB_DEVELOPMENT",
+        "CategoryTitle": "Website Design and Development",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Build responsive and interactive websites from scratch.",
+        "CourseStatus": "ACTIVE",
+         "tags": [
+          "Frontend Development",
+          "Responsive Web Design",
+          "HTML CSS JavaScript",
+          "React",
+          "Web Interface",
+          "Modern Websites",
+          "Coding"
+        ]
+      },
+      {
+        "id": 303,
+        "CourseName": "Backend Development",
+        "description": "Learn server-side development, APIs, databases, and authentication systems.",
+        "level": "Beginner",
+        "duration": "16 weeks",
+        "price": 122000,
+        "discountInPercent": 10,
+        "CourseCategory": "WEB_DEVELOPMENT",
+        "CategoryTitle": "Website Design and Development",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Work with databases, REST APIs, and backend architectures.",
+        "CourseStatus": "DISCOUNT",
+         "tags": [
+          "Backend Development",
+          "Node.js",
+          "APIs",
+          "Databases",
+          "Server Side",
+          "Authentication",
+          "Web Applications"
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Artificial Intelligence",
+    "categoryDescription": "Explore Artificial Intelligence courses and build valuable skills",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "AI Training",
+      "Deep Learning",
+      "Automation",
+      "Data Science",
+      "Technology",
+      "Innovation"
+    ],
+    "courses": [
+      {
+        "id": 401,
+        "CourseName": "Artificial Intelligence",
+        "description": "Understand the fundamentals of AI, machine learning, and intelligent systems.",
+        "level": "Beginner",
+        "duration": "16 weeks",
+        "price": 202000,
+        "discountInPercent": 10,
+        "CourseCategory": "AI",
+        "CategoryTitle": "Artificial Intelligence",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Learn AI concepts, algorithms, and real-world applications.",
+        "CourseStatus": "ACTIVE",
+          "tags": [
+          "Artificial Intelligence",
+          "AI Course",
+          "Machine Learning",
+          "Deep Learning",
+          "Automation",
+          "Neural Networks",
+          "Future Technology"
+        ]
+      },
+      {
+        "id": 402,
+        "CourseName": "Machine Learning",
+        "description": "Learn supervised and unsupervised learning techniques for predictive systems.",
+        "level": "Beginner",
+        "duration": "16 weeks",
+        "price": 202000,
+        "discountInPercent": 15,
+        "CourseCategory": "AI",
+        "CategoryTitle": "Artificial Intelligence",
+        "CourseEnrrolmentType": "ONLINE",
+        "additionalInfo": "Build machine learning models and analyze datasets.",
+        "CourseStatus": "DISCOUNT",
+         "tags": [
+          "Machine Learning",
+          "AI Models",
+          "Data Science",
+          "Predictive Analysis",
+          "Neural Networks",
+          "Python AI",
+          "Artificial Intelligence"
+        ]
+      }
+    ]
+  }
+]

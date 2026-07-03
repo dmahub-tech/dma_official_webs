@@ -162,7 +162,7 @@ const Navbar = ({ defaultLogoTheme = 'light' }: { defaultLogoTheme?: string }) =
               <Link href="/service" className="nav-link">Services</Link>
             </li>
             <li className="nav-item">
-              <Link href="/service" className="nav-link">Courses</Link>
+              <Link href="/course" className="nav-link">Courses</Link>
             </li>
             <li className="nav-item">
               <Link href="/blog" className="nav-link">Blogs</Link>

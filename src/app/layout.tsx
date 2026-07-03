@@ -9,6 +9,11 @@ import ProgressScroll from "@/dva/components/Progress-Scroll";
 import Script from "next/script";
 import StickyBar from "@/dva/components/StickyBar";
 import { ThemeProvider } from "@/dva/context/ThemeContext";
+import CallToAction from "../components/CallAction";
+import Process from "../components/Process";
+import Testimonials from "../components/Testimonials";
+import Clients from "../components/Clients";
+import Footer from "../components/Footer";
 
 
 
@@ -73,6 +78,11 @@ export default function RootLayout({
         <ThemeProvider>
           <StickyBar />
           {children}
+            <CallToAction  />
+                <Process services={true} />
+                <Testimonials curve={false} />
+                <Clients />
+                 <Footer footerClass="main-footer bg-dark-blue bg-img mt-40" footerBg={true} business={true} />
           <ProgressScroll/>
         </ThemeProvider>
         <Script strategy="beforeInteractive" src="/js/cal.js"></Script>

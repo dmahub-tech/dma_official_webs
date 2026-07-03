@@ -131,13 +131,6 @@ const Services = ({ showImages = false }: { showImages?: boolean }) => {
             />
           ))}
         </div>
-
-        {/* Bottom CTA with reveal */}
-        <div className="row mt-100">
-          <div className="col-12 text-center">
-            <CTAButton />
-          </div>
-        </div>
       </div>
     </section>
   );
@@ -225,7 +218,7 @@ const ServiceCard = ({
         )}
 
         {/* Icon with gradient background */}
-        <div className="service-icon mb-4 group-hover:scale-110 transition-transform duration-500">
+        <div className="service-icon mb-4 group-hover:scale-110 transition-transform duration-500 ">
           <span className={service.icon} />
         </div>
 
@@ -292,52 +285,7 @@ const ServiceCard = ({
           </Link>
         </div>
 
-        {/* Hover action hint */}
-        <div className="absolute bottom-4 right-4 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
-          <Link 
-            href={`/services/${service.id}`}
-            className="text-[10px] font-tech tracking-wider flex items-center gap-2"
-            style={{ color: 'var(--accent)' }}
-          >
-            Explore
-            <svg 
-              className="w-3 h-3 transform group-hover:translate-x-1 transition-transform" 
-              fill="none" 
-              viewBox="0 0 24 24" 
-              stroke="currentColor"
-            >
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-            </svg>
-          </Link>
-        </div>
       </div>
-    </div>
-  );
-};
-
-// CTA Button component with reveal animation
-const CTAButton = () => {
-  const { ref, className } = useScrollReveal({
-    revealClass: 'reveal-scale',
-    revealDelay: 100,
-  });
-
-  return (
-    <div ref={ref} className={className}>
-      <Link 
-        href="/services"
-        className="butn butn-md butn-rounded butn-gradient inline-flex items-center gap-3 group"
-      >
-        <span className="text">View All Services</span>
-        <svg 
-          className="w-4 h-4 transform group-hover:translate-x-1 transition-transform" 
-          fill="none" 
-          viewBox="0 0 24 24" 
-          stroke="currentColor"
-        >
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
-        </svg>
-      </Link>
     </div>
   );
 };

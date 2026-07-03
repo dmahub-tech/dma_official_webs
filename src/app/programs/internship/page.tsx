@@ -14,7 +14,7 @@ export default function InternshipPage() {
                
           
                 <div className="mb-50" ></div>
-                <Footer footerClass="main-footer bg-dark-blue bg-img" business={true} />
+             
             </main>
         </>
     );

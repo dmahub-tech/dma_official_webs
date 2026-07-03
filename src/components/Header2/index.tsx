@@ -7,10 +7,10 @@ import { useScrollReveal } from '@/dva/hooks/useScrollReveal';
 
 const Header2 = ({ 
   bg, 
-  eyebrow = "Services",
-  title = "Learn more about DIGITAL MASTERMIND ACADEMY", 
-  mainTitle = "Where Creativity Meets",
-  mainTitleSpan = "Innovation"
+  eyebrow,
+  title,
+  mainTitle,
+  mainTitleSpan 
 }: {
   bg: string, 
   eyebrow?: string,
